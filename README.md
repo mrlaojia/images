@@ -17,6 +17,6 @@ release-vnfs-provisioner-v4.0.8
 # 拉取镜像
 
 ```shell
-docker pull registry.cn-hangzhou.aliyuncs.com/laojia/images:release-vnfs-provisioner-v4.0.8 
+docker pull registry.cn-hangzhou.aliyuncs.com/laojia/images:nfs-provisioner-v4.0.8
 ```
 
