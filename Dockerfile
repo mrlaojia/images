@@ -1,1 +1,1 @@
-from registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+from registry.k8s.io/sig-storage/csi-provisioner:v3.3.0
