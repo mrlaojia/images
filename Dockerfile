@@ -1,1 +1,1 @@
-from k8s.gcr.io/scheduler-plugins/kube-scheduler:v0.19.9
+from k8s.gcr.io/scheduler-plugins/controller:v0.19.9
