@@ -1,2 +1,2 @@
-from gcr.io/kaniko-project/executor:v1.9.2-debug
+from registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
