@@ -1,2 +1,1 @@
-from registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-
+from quay.io/cephcsi/cephcsi:v3.9.0
